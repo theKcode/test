@@ -1,7 +1,1 @@
-<?php
-
-echo 'test';
-
-echo 'test2';
-
-?>
+x
